@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    docopt (0.6.1)
+    http-2-next (0.5.1)
+    httpx (0.22.4)
+      http-2-next (>= 0.4.1)
+    paint (2.3.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  docopt (~> 0.6.1)
+  httpx (~> 0.22.4)
+  paint (~> 2.3)
+
+BUNDLED WITH
+   2.4.7
